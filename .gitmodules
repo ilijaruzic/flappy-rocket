@@ -1,0 +1,16 @@
+[submodule "Navia/vendor/spdlog"]
+	path = Navia/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+	branch = v1.x
+[submodule "Navia/vendor/GLFW"]
+	path = Navia/vendor/GLFW
+	url = https://github.com/ilijaruzic/glfw
+	branch = master
+[submodule "Navia/vendor/imgui"]
+	path = Navia/vendor/imgui
+	url = https://github.com/ilijaruzic/imgui
+	branch = docking
+[submodule "Navia/vendor/glm"]
+	path = Navia/vendor/glm
+	url = https://github.com/g-truc/glm
+	branch = master
